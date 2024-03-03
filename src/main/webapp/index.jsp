@@ -3,7 +3,7 @@
 			<title>Aziz calculator App</title>
 	</head>
 <body>
-<h2>Calculator</h2>
+<h2>Aziz Calculator for addition & Subtraction</h2>
 	
 	<h3>Build Triggered on 22 Feb 2023!!!</h3>
 
