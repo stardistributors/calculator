@@ -1,6 +1,6 @@
 <html>
 	<head>	
-			<title>CalCulatorApp</title>
+			<title>Aziz calculator App</title>
 	</head>
 <body>
 <h2>Calculator</h2>
